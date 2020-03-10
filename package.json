@@ -1,0 +1,22 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "description": "A basic info site using node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorashs/basic-informational-site.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Igorashs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igorashs/basic-informational-site/issues"
+  },
+  "homepage": "https://github.com/igorashs/basic-informational-site#readme"
+}
