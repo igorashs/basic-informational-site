@@ -12,6 +12,7 @@
 ```bash
 git clone https://github.com/igorashs/basic-informational-site.git
 cd basic-informational-site
+npm install
 npm run start
 ```
 
